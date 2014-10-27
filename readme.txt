@@ -8,13 +8,12 @@ step06/local
 step06/github
 step07/local
 step08/github
-<<<<<<< HEAD
+
 call sub01
 call sub02
 
 sub01
 sub02
 
-=======
 step09/github
->>>>>>> f90de18ed546d57734d6ca8531ce1e9c1380b8d2
+
