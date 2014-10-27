@@ -8,7 +8,8 @@ step06/local
 step06/github
 step07/local
 step08/github
-
+step21/local
+step22/local
 call sub01
 call sub02
 
